@@ -1,8 +1,8 @@
 <h2 align="center">Olá, me chamo Bruno, seja bem vindo ao meu perfil</h2>
-<li>
-  <ul>👤 20 anos</ul>
-  <ul>🎓 Ciências Da Computação - IFTM Ituiutaba</ul>
-</li>
+<ul>
+  <li>👤 20 anos</li>
+  <li>🎓 Ciências Da Computação - IFTM Ituiutaba</li>
+</ul>
 
 ###
 
