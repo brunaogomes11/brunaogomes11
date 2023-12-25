@@ -1,4 +1,5 @@
 <h2 align="center">Olá, me chamo Bruno, seja bem vindo ao meu perfil</h2>
+<p>Tenho 20 anos, natural de Ituiutaba-MG</p>
 
 ###
 
