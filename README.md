@@ -1,15 +1,10 @@
 <h2 align="center">Olá, me chamo Bruno, seja bem vindo ao meu perfil</h2>
 <ul>
-  <li>👤 20 anos</li>
+  <li>👤 22 anos</li>
   <li>🎓 Ciências Da Computação - IFTM Ituiutaba</li>
 </ul>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunaogomes11&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunaogomes11&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -44,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
