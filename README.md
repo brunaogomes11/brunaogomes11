@@ -2,7 +2,8 @@
 <ul>
   <li>👤 23 anos</li>
   <li>🎓 Ciências Da Computação - IFTM Ituiutaba</li>
-  <li>🎓 Engenharia de Software com IA aplicada - UNIPDS</li>
+  <li>🎓⌛ Engenharia de Software com IA aplicada - UNIPDS</li>
+  <li>🎓⌛ Engenheiro de IA - IBM</li>
 </ul>
 
 ###
