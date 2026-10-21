@@ -1,7 +1,8 @@
 <h2 align="center">Olá, me chamo Bruno, seja bem vindo ao meu perfil</h2>
 <ul>
-  <li>👤 22 anos</li>
+  <li>👤 23 anos</li>
   <li>🎓 Ciências Da Computação - IFTM Ituiutaba</li>
+  <li>🎓 Engenharia de Software com IA aplicada - UNIPDS</li>
 </ul>
 
 ###
